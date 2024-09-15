@@ -1,0 +1,94 @@
+Disease Name,Symptoms,Severity,Immediate Fast Response Treatment
+Common Cold,"Cough, sneezing, runny nose",Mild,"Rest, fluids, OTC decongestants"
+Flu,"Fever, chills, muscle aches",Moderate-Severe,"Antivirals, rest, hydration"
+Strep Throat,"Sore throat, fever",Moderate,"Antibiotics, rest, warm fluids"
+Malaria,"Fever, chills, nausea",Severe,"Antimalarials, seek medical help"
+Bronchitis,"Cough, mucus",Moderate,"Rest, fluids, inhaler"
+Pneumonia,"Chest pain, shortness of breath",Severe,"Antibiotics, rest, fluids"
+Asthma,"Wheezing, coughing",Moderate,"Inhaler, rest"
+Allergies,"Sneezing, itchy eyes",Mild,"Antihistamines, rest"
+Chickenpox,"Itchy rash, fever",Mild,"Calamine lotion, antihistamines"
+Measles,"Fever, cough, rash",Moderate,"Bed rest, fluids"
+Mumps,"Fever, swollen glands",Moderate,"Rest, fluids, pain relief"
+Rubella,"Mild fever, rash",Mild,"Rest, pain relief"
+"Hand, Foot, and Mouth Disease","Fever, mouth sores",Mild,"Rest, hydration"
+Ear Infection,"Ear pain, fever",Mild,"Antibiotics, rest"
+Conjunctivitis (Pink Eye),"Red eyes, discharge",Mild,"Eye drops, rest"
+Cold Sores,Painful blisters,Moderate,Antiviral creams
+Tonsillitis,"Sore throat, difficulty swallowing",Moderate,"Antibiotics, rest"
+Stomach Flu (Gastroenteritis),"Vomiting, diarrhea",Moderate,"Hydration, rest"
+Food Poisoning,"Nausea, vomiting, diarrhea",Moderate,"Hydration, rest"
+E. coli Infection,"Abdominal pain, vomiting",Moderate,"Hydration, rest"
+Salmonella Infection,"Nausea, cramps, fever",Moderate,"Hydration, rest"
+UTI,"Frequent urination, burning",Mild,"Antibiotics, hydration"
+Cystitis,Painful urination,Mild,"Hydration, rest"
+Kidney Stones,"Sharp back pain, nausea",Severe,"Pain relievers, fluids"
+Hepatitis A,"Jaundice, fatigue",Moderate,"Rest, hydration"
+Hepatitis B,"Fatigue, jaundice",Moderate,"Rest, antiviral medication"
+Hepatitis C,Chronic fatigue,Moderate,"Rest, antiviral medication"
+Dengue Fever,"High fever, headache",Severe,"Hydration, rest"
+Typhoid Fever,"Fever, abdominal pain",Moderate,"Hydration, antibiotics"
+Cholera,"Dehydration, diarrhea",Severe,"Hydration, antibiotics"
+Scabies,Intense itching,Mild,"Topical cream, hydration"
+Ringworm,"Circular rash, itching",Mild,Topical antifungal cream
+Athlete’s Foot,"Itchy, cracked skin",Mild,Topical antifungal cream
+Eczema,"Dry, inflamed skin",Moderate,"Moisturizer, avoid triggers"
+Psoriasis,"Red, scaly patches",Moderate,Topical treatments
+Acne,Pimples,Mild,Topical treatments
+Dandruff,Flaky scalp,Mild,Antidandruff shampoo
+Head Lice,Itchy scalp,Mild,Topical treatments
+Warts,Small bumps on skin,Mild,Topical cream
+Impetigo,Red sores,Mild,Antibiotic cream
+Boils,Painful lumps,Moderate,"Drainage, antibiotics"
+Cellulitis,"Red, swollen skin",Moderate,Antibiotics
+Abscess,Painful swelling,Moderate,"Drainage, antibiotics"
+Gingivitis,Bleeding gums,Mild,Oral hygiene
+Tooth Decay (Cavities),Tooth pain,Moderate,"Tooth extraction, pain relief"
+Heartburn (Acid Reflux),Burning in chest,Mild,Antacids
+Peptic Ulcer,Stomach pain,Moderate,"Antibiotics, rest"
+IBS,"Bloating, abdominal pain",Moderate,"Diet change, hydration"
+Constipation,Hard stools,Mild,"Fiber, hydration"
+Diarrhea,"Loose, watery stools",Mild,Hydration
+Hemorrhoids,Swollen veins,Moderate,"Hydration, fiber"
+Celiac Disease,"Abdominal pain, diarrhea",Moderate,Gluten-free diet
+Lactose Intolerance,"Bloating, diarrhea",Mild,Lactose-free diet
+Anemia,"Fatigue, dizziness",Moderate,Iron supplements
+Vitamin D Deficiency,"Bone pain, fatigue",Moderate,Vitamin D supplements
+Dehydration,Extreme thirst,Severe,Rehydration
+Sunburn,"Red, hot skin",Mild,Cooling
+Heat Rash,Itchy rash,Mild,Topical cream
+Hyperthermia (Heat Stroke),High body temperature,Severe,"Cooling, fluids"
+Hypothermia,"Shivering, confusion",Severe,Warming blankets
+Chickenpox,"Itchy rash, fever",Mild,Calamine lotion
+Lyme Disease,"Bullseye rash, fatigue",Moderate,"Antibiotics, fluids"
+Zika Virus,"Mild fever, rash",Moderate,Pain relief
+West Nile Virus,"Fever, joint pain",Moderate,Pain relief
+Tuberculosis (TB),Chronic cough,Severe,"Antibiotics, rest"
+Whooping Cough,Severe coughing,Severe,Antibiotics
+Croup,Barking cough,Moderate,"Rest, hydration"
+Viral Meningitis,"Stiff neck, headache",Moderate,Pain relief
+Shingles,Painful rash,Moderate,Pain relief cream
+Herpes Simplex Virus,"Blisters, pain",Moderate,Topical treatments
+Mononucleosis,"Fatigue, sore throat",Moderate,"Rest, hydration"
+Tonsillitis,Sore throat,Moderate,"Rest, hydration"
+Swimmer's Ear,Ear pain,Moderate,Ear drops
+GERD,Burning sensation in chest,Moderate,Antacids
+Plantar Fasciitis,Heel pain,Mild,"Stretching, rest"
+Tension Headaches,Dull headache,Mild,Pain relievers
+Migraine,Throbbing headache,Moderate,"Rest, hydration"
+Vertigo,Dizziness,Moderate,Hydration
+Sciatica,Lower back pain,Severe,Pain relievers
+Carpal Tunnel Syndrome,Tingling in fingers,Moderate,Hydration
+Tennis Elbow,Elbow pain,Moderate,"Rest, hydration"
+Osteoarthritis,Joint pain,Moderate,"Rest, hydration"
+Gout,Severe pain in joints,Moderate,"Inhaler, rest"
+Fibromyalgia,Widespread pain,Severe,"Antibiotics, fluids"
+Chronic Fatigue Syndrome,Extreme tiredness,Mild,"Rest, hydration"
+Insomnia,Difficulty sleeping,Moderate,"Rest, hydration"
+Restless Leg Syndrome,Unpleasant leg sensations,Moderate,Pain relief
+Hypertension,High blood pressure,Severe,"Antihistamines, rest"
+Hypotension,Low blood pressure,Moderate,Pain relievers
+High Cholesterol,Chest pain,Severe,Pain relievers
+Type 1 Diabetes,Extreme thirst,Moderate,"Hydration, rest"
+Type 2 Diabetes,Frequent urination,Severe,"Pain relievers, hydration"
+Obesity,Excess weight,Moderate,"Hydration, antibiotics"
